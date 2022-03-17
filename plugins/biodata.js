@@ -5,13 +5,13 @@ let handler = async (m, { conn, text }) => {
 let logo = global.logoowner
   let ext= `
 *───────[ BIODATA OWNER ]───────*
-*💌 Nama* : Letta
-*🎨 Umur* : 11
-*🧮 Kelas* : 6
-*📈 Status* : Busy
+*💌 Nama* : Indra
+*🎨 Umur* : --
+*🧮 Kelas* : -
+*📈 Status* : Cwk
 
 *───────[ SOSIAL MEDIA ]───────*
-*📷 instagran* : @ppiowy_
+*📷 instagran* : none
 *🇫  Facebook* : none
 *🏮 Chanel Youtube* : none
 `
